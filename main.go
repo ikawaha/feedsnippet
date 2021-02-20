@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/ikawaha/feed/feeder"
+	"github.com/ikawaha/feedsnippet/feeder"
 )
 
 const (

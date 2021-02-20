@@ -1,4 +1,4 @@
-module github.com/ikawaha/feed
+module github.com/ikawaha/feedsnippet
 
 go 1.16
 
