@@ -1,0 +1,15 @@
+- urls:
+    - https://zenn.dev/ikawaha/feed
+    - https://qiita.com/ikawaha/feed
+  template: |-
+    {{range . -}}
+      * {{ if eq .Header.FeedLink "https://zenn.dev/ikawaha/feed" -}}
+            ![](./icon/zenn.png)
+        {{- else }}{{ if eq .Header.FeedLink "https://qiita.com/ikawaha/feed" -}}
+            ![](./icon/qiita.png)
+        {{- end }}{{ end -}}
+      [{{ .Title }}]({{ .Link }})
+    {{ end }}
+  limit: 10
+  sort_by_published: true
+  reverse: true
