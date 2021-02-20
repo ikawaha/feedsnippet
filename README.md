@@ -7,7 +7,7 @@ The format of the generated feed can be formatted using the text template.
 # Install
 
 ```
-go install github.com/ikawaha/feedsnippet@latest
+go install github.com/ikawaha/feedsnippet
 ```
 
 # Config
