@@ -27,5 +27,5 @@ jobs:
         git config --local user.email "ikawaha@users.noreply.github.com"
         git config --local user.name "ikawaha"
         git add README.md
-        git commit -m "update posts"
+        git commit -m "Update feed snippet"
         git push origin main
