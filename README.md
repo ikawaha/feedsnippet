@@ -92,5 +92,13 @@ Outputs:
 
 ```
 
+Outputs:
+
+
+<!--[START github.com/ikawaha/feedsnippet]-->
+
+<!--[END github.com/ikawaha/feedsnippet]-->
+
+
 ---
 MIT
