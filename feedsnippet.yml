@@ -12,4 +12,4 @@
     {{ end }}
   limit: 10
   sort_by_published: true
-  reverse: true
+
