@@ -100,9 +100,17 @@ func (f Feeder) Feeds(urls ...string) ([]Feed, error) {
 		if f.debug {
 			fmt.Fprintln(f.debugOut, fs)
 		}
+		fs, err = applyFilters(fs, f.filters)
+		if err != nil {
+			return nil, err
+		}
 		feeds = append(feeds, fs...)
 	}
-	for _, filter := range f.filters {
+	return applyFilters(feeds, f.filters)
+}
+
+func applyFilters(feeds []Feed, filters []Filter) ([]Feed, error){
+	for _, filter := range filters {
 		var err error
 		feeds, err = filter(feeds)
 		if err != nil {

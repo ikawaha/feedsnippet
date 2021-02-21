@@ -8,7 +8,7 @@ import (
 // Filter filters feeds.
 type Filter func(feed []Feed) ([]Feed, error)
 
-// SortByPublished sorts feeds by published.
+// SortByPublished sorts feeds by published, most recent first.
 func SortByPublished() Filter {
 	return func(feed []Feed) ([]Feed, error) {
 		sort.Slice(feed, func(i, j int) bool {
@@ -19,7 +19,7 @@ func SortByPublished() Filter {
 			if feed[j].PublishedParsed != nil {
 				y = *feed[j].PublishedParsed
 			}
-			return x.Before(y)
+			return x.After(y) // note: most recent first.
 		})
 		return feed, nil
 	}

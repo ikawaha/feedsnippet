@@ -47,8 +47,6 @@ Outputs:
       * ![](./icon/zenn.png) [{{ .Title }}]({{ .Link }})
     {{ end }}
   limit: 5
-  sort_by_published: true
-  reverse: true
 - urls:
     - https://qiita.com/ikawaha/feed
   template: |-
@@ -57,8 +55,6 @@ Outputs:
       * ![](./icon/qiita.png) [{{ .Title }}]({{ .Link }})
     {{ end }}
   limit: 5
-  sort_by_published: true
-  reverse: true
 ```
 
 Outputs:
@@ -94,7 +90,6 @@ Outputs:
     {{ end }}
   limit: 10
   sort_by_published: true
-  reverse: true
 ```
 
 Outputs:
