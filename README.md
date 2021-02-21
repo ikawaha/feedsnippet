@@ -144,18 +144,19 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-21T03:40:56Z]-->
-* ![](./icon/zenn.png)[その文字が JIS X 0208 に含まれるか？ あるいは unicode.RangeTable の使い方](https://zenn.dev/ikawaha/articles/20210116-ab1ac4a692ae8bb4d9cf)
-* ![](./icon/zenn.png)[Go製全文検索エンジンBlugeで日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20201230-84b042603ccbbce645d5)
-* ![](./icon/zenn.png)[実践：形態素解析 kagome v2](https://zenn.dev/ikawaha/books/kagome-v2-japanese-tokenizer)
-* ![](./icon/zenn.png)[形態素解析器 kagome を Google App Engine で動かす](https://zenn.dev/ikawaha/articles/hatena-20161004-221708)
-* ![](./icon/zenn.png)[形態素解析器 kagome を brew tap でインストールできるようにした](https://zenn.dev/ikawaha/articles/20201029-391c049a13fb8506361d)
-* ![](./icon/zenn.png)[Goa v3 入門](https://zenn.dev/ikawaha/books/goa-design-v3)
-* ![](./icon/zenn.png)[Qiita/はてブの記事をZennでも管理する](https://zenn.dev/ikawaha/articles/20201012-e56b19cd33c396ae0465)
-* ![](./icon/zenn.png)[はてなの記事をZenn形式のMarkdownで保存して管理する](https://zenn.dev/ikawaha/articles/hatena-20201012-205602)
-* ![](./icon/qiita.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://qiita.com/ikawaha/items/ab9906581e34f26993a9)
-* ![](./icon/zenn.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://zenn.dev/ikawaha/articles/qiita-ab9906581e34f26993a9)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-21T03:43:30Z]-->
+* ![](./icon/qiita.png)[travis setup releases で Validation Failed になるときの解消法](https://qiita.com/ikawaha/items/c4859421d67a27e9ffc6)
+* ![](./icon/qiita.png)[Travis CI で goxc を使うとなぜかgo1.3のときだけビルドがこける](https://qiita.com/ikawaha/items/f0a046428f907bf9ba98)
+* ![](./icon/qiita.png)[pythonクライアントで始める「はじめてのElasticsearch」](https://qiita.com/ikawaha/items/c654f746cfe76b888a27)
+* ![](./icon/qiita.png)[デフォルトのElasticsearchは常にクラスタを組みたがっているので気をつける，というかクラスタ設定とめとく](https://qiita.com/ikawaha/items/f43a78f171836f1ec86b)
+* ![](./icon/qiita.png)[goをソースからコンパイルしてgodocが見つからない](https://qiita.com/ikawaha/items/ea1ca5ee90296307c4bc)
+* ![](./icon/qiita.png)[Elasticsearch で 文字の正規化を icu_normalizer でおこなう](https://qiita.com/ikawaha/items/79fdd69c524310db065e)
+* ![](./icon/qiita.png)[golang で string を []byte にキャストするとメモリコピーが走ります](https://qiita.com/ikawaha/items/3c3994559dfeffb9f8c9)
+* ![](./icon/qiita.png)[golang のリファクタリングには gofmt が使える](https://qiita.com/ikawaha/items/73c0a1d975680276b2c7)
+* ![](./icon/qiita.png)[【kagome】形態素解析のラティスをグラフで表示できるようにしてみた](https://qiita.com/ikawaha/items/6fd4071187640f6bf66d)
+* ![](./icon/qiita.png)[json を pretty print するのに echo '{"apple": "red", "lemon": "yellow"}' | python -m json.tool は冗長じゃないですか？なので go でコマンド用意しました](https://qiita.com/ikawaha/items/8a01c5739401e26e8794)
 <!--[END github.com/ikawaha/feedsnippet]-->
+
 
 
 
