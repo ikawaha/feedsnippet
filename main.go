@@ -64,7 +64,7 @@ func run(opt option) error {
 		}
 		b.WriteString(s)
 	}
-	b.WriteString(endTag + "\n")
+	b.WriteString(endTag)
 	if err := writeSnippets(opt.target, b.Bytes(), opt.verbose); err != nil {
 		return err
 	}
