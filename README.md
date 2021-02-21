@@ -110,7 +110,7 @@ Outputs:
 * ![](./icon/qiita.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://qiita.com/ikawaha/items/ab9906581e34f26993a9)
 * ![](./icon/zenn.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://zenn.dev/ikawaha/articles/qiita-ab9906581e34f26993a9)
 
-# Automatic update of README.md using github workflow
+# Automatic update using github workflow
 
 ```yaml
 name: Update feed snippet
@@ -132,7 +132,7 @@ jobs:
         go-version: 1.16
 
     - name: Install feedsnippet
-      run: go install github.com/ikawaha/feedsnippet
+      run: go install github.com/ikawaha/feedsnippet@latest
 
     - name: Update README.md
       run: feedsnippet -config feedsnippet.yml -file README.md
@@ -142,7 +142,7 @@ jobs:
         git config --local user.email "ikawaha@users.noreply.github.com"
         git config --local user.name "ikawaha"
         git add README.md
-        git commit -m "update posts"
+        git commit -m "Update feed snippet"
         git push origin main
 ```
 
@@ -161,16 +161,6 @@ Outputs:
 * ![](./icon/qiita.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://qiita.com/ikawaha/items/ab9906581e34f26993a9)
 * ![](./icon/zenn.png)[Qiitaの記事をZenn形式のMarkdownで保存して管理する](https://zenn.dev/ikawaha/articles/qiita-ab9906581e34f26993a9)
 <!--[END github.com/ikawaha/feedsnippet]-->
-
-
-
-
-
-
-
-
-
-
 
 ---
 MIT
