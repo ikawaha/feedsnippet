@@ -156,12 +156,5 @@ Outputs:
 * ![](./icon/qiita.png)[【kagome】形態素解析のラティスをグラフで表示できるようにしてみた](https://qiita.com/ikawaha/items/6fd4071187640f6bf66d)
 * ![](./icon/qiita.png)[json を pretty print するのに echo '{"apple": "red", "lemon": "yellow"}' | python -m json.tool は冗長じゃないですか？なので go でコマンド用意しました](https://qiita.com/ikawaha/items/8a01c5739401e26e8794)
 <!--[END github.com/ikawaha/feedsnippet]-->
-
-
-
-
-
-
-
 ---
 MIT
