@@ -34,7 +34,7 @@ func main() {
 	var opt option
 	flag.StringVar(&opt.config, "config", "", "config file")
 	flag.StringVar(&opt.target, "file", "", "target file (optional)")
-	flag.BoolVar(&opt.diff, "diff", false, "replace snippets only when there is a snippetDiff (optional)")
+	flag.BoolVar(&opt.diff, "diff", false, "replace snippets only when there is a difference (optional)")
 	flag.BoolVar(&opt.verbose, "verbose", false, "print snippets to stdout (optional)")
 	flag.BoolVar(&opt.debug, "debug", false, "print raw fees for debug (optional)")
 	flag.Parse()
