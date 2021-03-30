@@ -113,7 +113,7 @@ name: Update feed snippet
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'  
+    - cron:  '0 0 * * *'  
 
 jobs:
   build:
@@ -130,16 +130,14 @@ jobs:
       run: go install github.com/ikawaha/feedsnippet@latest
 
     - name: Update README.md
-      run: feedsnippet -config feedsnippet.yml -file README.md
+      run: feedsnippet -config feedsnippet.yml -diff -file README.md
 
     - name: git commit
       run: |
         git config --local user.email "ikawaha@users.noreply.github.com"
         git config --local user.name "ikawaha"
         git add README.md
-        git commit -m "Update feed snippet"
-        git push origin main
-```
+        git diff --cached --quiet || git commit -m "Update feed snippet" || git push origin main
 
 Outputs:
 
