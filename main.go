@@ -12,14 +12,14 @@ import (
 )
 
 const (
-	startTag = `<!--[START github.com/ikawaha/feedsnippet]-->`
-	endTag   = `<!--[END github.com/ikawaha/feedsnippet]-->`
-	timestamp = `(?:<!--\[(?:.+?)]-->)?\n`
+	startTag   = `<!--[START github.com/ikawaha/feedsnippet]-->`
+	endTag     = `<!--[END github.com/ikawaha/feedsnippet]-->`
+	timestamp  = `(?:<!--\[(?:.+?)]-->)?\n`
 	timestampP = "<!--[%s]-->\n"
 )
 
 var (
-	snippetField = regexp.MustCompile(`(?s)` + regexp.QuoteMeta(startTag) + timestamp +`(.*)` + regexp.QuoteMeta(endTag))
+	snippetField = regexp.MustCompile(`(?s)` + regexp.QuoteMeta(startTag) + timestamp + `(.*)` + regexp.QuoteMeta(endTag))
 )
 
 type option struct {
@@ -91,7 +91,7 @@ func writeSnippet(opt option, snippet []byte) error {
 		if err != nil {
 			return err
 		}
-		if eq{
+		if eq {
 			return nil
 		}
 	}
@@ -106,7 +106,6 @@ func writeSnippet(opt option, snippet []byte) error {
 	}
 	return nil
 }
-
 
 func snippetEqual(tagged, snippet []byte) (bool, error) {
 	matched := snippetField.FindSubmatch(tagged)
