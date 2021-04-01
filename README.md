@@ -142,7 +142,9 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-27T00:47:56Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-04-01T14:15:00+09:00]-->
+* ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
+* ![](./icon/zenn.png)[正規表現の必須要素を抽出する](https://zenn.dev/ikawaha/articles/20210323-347ab9d63316a4517047)
 * ![](./icon/qiita.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://qiita.com/ikawaha/items/6829b2872319aa6be716)
 * ![](./icon/zenn.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://zenn.dev/ikawaha/articles/20210221-c8f2d9ac028ae49d551a)
 * ![](./icon/zenn.png)[その文字が JIS X 0208 に含まれるか？ あるいは unicode.RangeTable の使い方](https://zenn.dev/ikawaha/articles/20210116-ab1ac4a692ae8bb4d9cf)
@@ -151,8 +153,6 @@ Outputs:
 * ![](./icon/zenn.png)[形態素解析器 kagome を Google App Engine で動かす](https://zenn.dev/ikawaha/articles/hatena-20161004-221708)
 * ![](./icon/zenn.png)[形態素解析器 kagome を brew tap でインストールできるようにした](https://zenn.dev/ikawaha/articles/20201029-391c049a13fb8506361d)
 * ![](./icon/zenn.png)[Goa v3 入門](https://zenn.dev/ikawaha/books/goa-design-v3)
-* ![](./icon/zenn.png)[Qiita/はてブの記事をZennでも管理する](https://zenn.dev/ikawaha/articles/20201012-e56b19cd33c396ae0465)
-* ![](./icon/zenn.png)[はてなの記事をZenn形式のMarkdownで保存して管理する](https://zenn.dev/ikawaha/articles/hatena-20201012-205602)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
