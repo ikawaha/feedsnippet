@@ -138,6 +138,7 @@ jobs:
         git config --local user.name "ikawaha"
         git add README.md
         git diff --cached --quiet || git commit -m "Update feed snippet" || git push origin main
+```
 
 Outputs:
 
