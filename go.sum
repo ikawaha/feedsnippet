@@ -27,8 +27,8 @@ github.com/mattn/go-colorable v0.1.8 h1:c1ghPdyEDarC70ftn0y+A/Ee++9zz8ljHG1b13eJ
 github.com/mattn/go-colorable v0.1.8/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
 github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHXY=
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
-github.com/mmcdole/gofeed v1.1.1 h1:V7uKC6nV+bjeYfntpMrfReX+O8GnBB8/tAZe+QjVpMk=
-github.com/mmcdole/gofeed v1.1.1/go.mod h1:PPiVwgDXLlz2N83KB4TrIim2lyYM5Zn7ZWH9Pi4oHUk=
+github.com/mmcdole/gofeed v1.1.3 h1:pdrvMb18jMSLidGp8j0pLvc9IGziX4vbmvVqmLH6z8o=
+github.com/mmcdole/gofeed v1.1.3/go.mod h1:QQO3maftbOu+hiVOGOZDRLymqGQCos4zxbA4j89gMrE=
 github.com/mmcdole/goxpp v0.0.0-20181012175147-0068e33feabf h1:sWGE2v+hO0Nd4yFU/S/mDBM5plIU8v/Qhfz41hkDIAI=
 github.com/mmcdole/goxpp v0.0.0-20181012175147-0068e33feabf/go.mod h1:pasqhqstspkosTneA62Nc+2p9SOBBYAPbnmRRWPQ0V8=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 h1:ZqeYNhU3OHLH3mGKHDcjJRFFRrJa6eAM5H+CtDdOsPc=
