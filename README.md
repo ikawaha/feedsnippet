@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-06-20T03:10:48Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-02T00:39:04Z]-->
+* ![](./icon/zenn.png)[それは常用漢字ですか？](https://zenn.dev/ikawaha/articles/20210801-e995d788c30ec1)
 * ![](./icon/zenn.png)[kagome v2.5.0 をリリースしました](https://zenn.dev/ikawaha/articles/20210608-a3a030de26befd89d0ec)
 * ![](./icon/zenn.png)[メモ：golangci-linter で特定の linter だけ動かしたい](https://zenn.dev/ikawaha/articles/20210506-cfb8a0eba2df86f0a5fd)
 * ![](./icon/zenn.png)[Goa v3 で go:embed を利用する試行錯誤](https://zenn.dev/ikawaha/articles/20210503-3d72f1747f43efd3bdc9)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/qiita.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://qiita.com/ikawaha/items/6829b2872319aa6be716)
 * ![](./icon/zenn.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://zenn.dev/ikawaha/articles/20210221-c8f2d9ac028ae49d551a)
 * ![](./icon/zenn.png)[その文字が JIS X 0208 に含まれるか？ あるいは unicode.RangeTable の使い方](https://zenn.dev/ikawaha/articles/20210116-ab1ac4a692ae8bb4d9cf)
-* ![](./icon/zenn.png)[Go製全文検索エンジンBlugeで日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20201230-84b042603ccbbce645d5)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
