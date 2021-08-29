@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-24T00:37:04Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-29T00:41:28Z]-->
+* ![](./icon/zenn.png)[pkg.go.devのドキュメントのVariablesに載せる大域変数は初期化していないといけない？](https://zenn.dev/ikawaha/articles/20210828-f24a0f5a8f0359)
 * ![](./icon/zenn.png)[自分自身を半自動的に更新し続ける祝日ライブラリ](https://zenn.dev/ikawaha/articles/20210823-7b6eb27fabc3d8)
 * ![](./icon/zenn.png)[人名用漢字：その漢字が子の名に使える漢字かを判定する](https://zenn.dev/ikawaha/articles/20210813-3d1c57fdf9370b)
 * ![](./icon/zenn.png)[それは常用漢字ですか？](https://zenn.dev/ikawaha/articles/20210801-e995d788c30ec1)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3 のテストをシュッとする](https://zenn.dev/ikawaha/articles/hatena-20191203-154521)
 * ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
 * ![](./icon/zenn.png)[正規表現の必須要素を抽出する](https://zenn.dev/ikawaha/articles/20210323-347ab9d63316a4517047)
-* ![](./icon/qiita.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://qiita.com/ikawaha/items/6829b2872319aa6be716)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
