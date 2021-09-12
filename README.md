@@ -137,7 +137,7 @@ jobs:
         git config --local user.email "ikawaha@users.noreply.github.com"
         git config --local user.name "ikawaha"
         git add README.md
-        git diff --cached --quiet || git commit -m "Update feed snippet" || git push origin main
+        git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
 ```
 
 Outputs:
