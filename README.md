@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-29T00:41:28Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-10-27T00:40:54Z]-->
+* ![](./icon/zenn.png)[メモ：GORMで一意制約エラーを判別したい](https://zenn.dev/ikawaha/articles/20211026-be74411bc714f5)
 * ![](./icon/zenn.png)[pkg.go.devのドキュメントのVariablesに載せる大域変数は初期化していないといけない？](https://zenn.dev/ikawaha/articles/20210828-f24a0f5a8f0359)
 * ![](./icon/zenn.png)[自分自身を半自動的に更新し続ける祝日ライブラリ](https://zenn.dev/ikawaha/articles/20210823-7b6eb27fabc3d8)
 * ![](./icon/zenn.png)[人名用漢字：その漢字が子の名に使える漢字かを判定する](https://zenn.dev/ikawaha/articles/20210813-3d1c57fdf9370b)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3 で go:embed を利用する試行錯誤](https://zenn.dev/ikawaha/articles/20210503-3d72f1747f43efd3bdc9)
 * ![](./icon/zenn.png)[Goa v3 のテストをシュッとする](https://zenn.dev/ikawaha/articles/hatena-20191203-154521)
 * ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
-* ![](./icon/zenn.png)[正規表現の必須要素を抽出する](https://zenn.dev/ikawaha/articles/20210323-347ab9d63316a4517047)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
