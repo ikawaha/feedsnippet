@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-19T00:48:43Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-23T00:45:52Z]-->
+* ![](./icon/zenn.png)[NULL な hstore には何を足しても NULL](https://zenn.dev/ikawaha/articles/20211222-faf856de926326)
 * ![](./icon/zenn.png)[errgroupのはまりどころと回避策](https://zenn.dev/ikawaha/articles/20211218-f37638b56e5807)
 * ![](./icon/zenn.png)[メモ：GORMで一意制約エラーを判別したい](https://zenn.dev/ikawaha/articles/20211026-be74411bc714f5)
 * ![](./icon/zenn.png)[pkg.go.devのドキュメントのVariablesに載せる大域変数は初期化していないといけない？](https://zenn.dev/ikawaha/articles/20210828-f24a0f5a8f0359)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[kagome v2.5.0 をリリースしました](https://zenn.dev/ikawaha/articles/20210608-a3a030de26befd89d0ec)
 * ![](./icon/zenn.png)[メモ：golangci-linter で特定の linter だけ動かしたい](https://zenn.dev/ikawaha/articles/20210506-cfb8a0eba2df86f0a5fd)
 * ![](./icon/zenn.png)[Goa v3 で go:embed を利用する試行錯誤](https://zenn.dev/ikawaha/articles/20210503-3d72f1747f43efd3bdc9)
-* ![](./icon/zenn.png)[Goa v3 のテストをシュッとする](https://zenn.dev/ikawaha/articles/hatena-20191203-154521)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
