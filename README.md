@@ -143,11 +143,11 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-04-07T00:11:36Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-04T00:11:08Z]-->
+* ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
 * ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
 * ![](./icon/zenn.png)[NULL な hstore には何を足しても NULL](https://zenn.dev/ikawaha/articles/20211222-faf856de926326)
 * ![](./icon/zenn.png)[errgroupのはまりどころと回避策](https://zenn.dev/ikawaha/articles/20211218-f37638b56e5807)
-* ![](./icon/zenn.png)[メモ：GORMで一意制約エラーを判別したい](https://zenn.dev/ikawaha/articles/20211026-be74411bc714f5)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
