@@ -143,11 +143,11 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-05T00:11:34Z]-->
-* ![](./icon/zenn.png)[Clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-16T00:14:15Z]-->
+* ![](./icon/zenn.png)[Goa v3.7.4](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
+* ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
 * ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
 * ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
-* ![](./icon/zenn.png)[NULL な hstore には何を足しても NULL](https://zenn.dev/ikawaha/articles/20211222-faf856de926326)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
