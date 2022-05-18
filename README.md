@@ -143,8 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-16T00:14:15Z]-->
-* ![](./icon/zenn.png)[Goa v3.7.4](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-18T00:12:11Z]-->
+* ![](./icon/zenn.png)[Goa v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
 * ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
 * ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
 * ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
