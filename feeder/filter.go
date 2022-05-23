@@ -38,10 +38,11 @@ func Reverse() Filter {
 // Limit limits the number of feeds to n.
 func Limit(n int) Filter {
 	return func(feed []Feed) ([]Feed, error) {
+		tail := n
 		if size := len(feed); size < n {
-			n = size
+			tail = size
 		}
-		feed = feed[:n]
+		feed = feed[:tail]
 		return feed, nil
 	}
 }
