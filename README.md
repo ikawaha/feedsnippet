@@ -113,7 +113,7 @@ name: Update feed snippet
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'  
+    - cron:  '0 0 * * *'  
 
 jobs:
   build:
@@ -130,31 +130,24 @@ jobs:
       run: go install github.com/ikawaha/feedsnippet@latest
 
     - name: Update README.md
-      run: feedsnippet -config feedsnippet.yml -file README.md
+      run: feedsnippet -config feedsnippet.yml -diff -file README.md
 
     - name: git commit
       run: |
         git config --local user.email "ikawaha@users.noreply.github.com"
         git config --local user.name "ikawaha"
         git add README.md
-        git commit -m "Update feed snippet"
-        git push origin main
+        git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
 ```
 
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-04-01T14:15:00+09:00]-->
-* ![](./icon/zenn.png)[Go の形態素解析器を wasm で利用する](https://zenn.dev/ikawaha/articles/20210331-e661ac866f5ff0fc5eb8)
-* ![](./icon/zenn.png)[正規表現の必須要素を抽出する](https://zenn.dev/ikawaha/articles/20210323-347ab9d63316a4517047)
-* ![](./icon/qiita.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://qiita.com/ikawaha/items/6829b2872319aa6be716)
-* ![](./icon/zenn.png)[Qiita/Zennの投稿をGitHubプロフィールに自動反映するためのツールを作った](https://zenn.dev/ikawaha/articles/20210221-c8f2d9ac028ae49d551a)
-* ![](./icon/zenn.png)[その文字が JIS X 0208 に含まれるか？ あるいは unicode.RangeTable の使い方](https://zenn.dev/ikawaha/articles/20210116-ab1ac4a692ae8bb4d9cf)
-* ![](./icon/zenn.png)[Go製全文検索エンジンBlugeで日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20201230-84b042603ccbbce645d5)
-* ![](./icon/zenn.png)[実践：形態素解析 kagome v2](https://zenn.dev/ikawaha/books/kagome-v2-japanese-tokenizer)
-* ![](./icon/zenn.png)[形態素解析器 kagome を Google App Engine で動かす](https://zenn.dev/ikawaha/articles/hatena-20161004-221708)
-* ![](./icon/zenn.png)[形態素解析器 kagome を brew tap でインストールできるようにした](https://zenn.dev/ikawaha/articles/20201029-391c049a13fb8506361d)
-* ![](./icon/zenn.png)[Goa v3 入門](https://zenn.dev/ikawaha/books/goa-design-v3)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-05-18T00:12:11Z]-->
+* ![](./icon/zenn.png)[Goa v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
+* ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
+* ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
+* ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT

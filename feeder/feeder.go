@@ -109,7 +109,7 @@ func (f Feeder) Feeds(urls ...string) ([]Feed, error) {
 	return applyFilters(feeds, f.filters)
 }
 
-func applyFilters(feeds []Feed, filters []Filter) ([]Feed, error){
+func applyFilters(feeds []Feed, filters []Filter) ([]Feed, error) {
 	for _, filter := range filters {
 		var err error
 		feeds, err = filter(feeds)
