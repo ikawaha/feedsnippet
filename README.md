@@ -143,8 +143,9 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-06-30T00:12:22Z]-->
-* ![](./icon/zenn.png)[単純な Slack Bot を単純に書くためのライブラリをメンテした](https://zenn.dev/ikawaha/articles/20220628-0bd46584a3063d)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-02T00:13:03Z]-->
+* ![](./icon/zenn.png)[Go の workspace を使って go. mod を汚さずに replace を書く](https://zenn.dev/ikawaha/articles/20220701-a053ec54b77435)
+* ![](./icon/zenn.png)[単純な Slack Bot を単純に書くための Go のライブラリをメンテした](https://zenn.dev/ikawaha/articles/20220628-0bd46584a3063d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.6](https://zenn.dev/ikawaha/articles/20220604-5fec68135de16d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
 * ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[NULL な hstore には何を足しても NULL](https://zenn.dev/ikawaha/articles/20211222-faf856de926326)
 * ![](./icon/zenn.png)[errgroupのはまりどころと回避策](https://zenn.dev/ikawaha/articles/20211218-f37638b56e5807)
 * ![](./icon/zenn.png)[メモ：GORMで一意制約エラーを判別したい](https://zenn.dev/ikawaha/articles/20211026-be74411bc714f5)
-* ![](./icon/zenn.png)[pkg.go.devのドキュメントのVariablesに載せる大域変数は初期化していないといけない？](https://zenn.dev/ikawaha/articles/20210828-f24a0f5a8f0359)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
