@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-08-07T00:14:44Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-08-12T00:11:58Z]-->
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.2](https://zenn.dev/ikawaha/articles/20220811-66619772b2b8a4)
 * ![](./icon/zenn.png)[ドドスコするオートマトン考](https://zenn.dev/ikawaha/articles/20220806-55c9db03732a09)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.14](https://zenn.dev/ikawaha/articles/20220801-ad319824c789e8)
 * ![](./icon/zenn.png)[さよなら WebDriver Client Agouti](https://zenn.dev/ikawaha/articles/20220722-4719183593a3cb)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Go の workspace を使って go. mod を汚さずに replace を書く](https://zenn.dev/ikawaha/articles/20220701-a053ec54b77435)
 * ![](./icon/zenn.png)[単純な Slack Bot を単純に書くための Go のライブラリをメンテした](https://zenn.dev/ikawaha/articles/20220628-0bd46584a3063d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.6](https://zenn.dev/ikawaha/articles/20220604-5fec68135de16d)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
