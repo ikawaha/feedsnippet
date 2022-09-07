@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-08-29T00:14:04Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-09-07T00:13:15Z]-->
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.5 / Clue v0.11.0](https://zenn.dev/ikawaha/articles/20220906-26034057e14410)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.4 / Clue v0.10.0](https://zenn.dev/ikawaha/articles/20220828-4230c5460efc04)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.3](https://zenn.dev/ikawaha/articles/20220821-b5356517f44727)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.2](https://zenn.dev/ikawaha/articles/20220811-66619772b2b8a4)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.12](https://zenn.dev/ikawaha/articles/20220717-c8f77d794dd18e)
 * ![](./icon/zenn.png)[clue 更新情報 v0.9.0](https://zenn.dev/ikawaha/articles/20220715-024418951cf58d)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.10](https://zenn.dev/ikawaha/articles/20220702-2fb029d5b376fd)
-* ![](./icon/zenn.png)[Go の workspace を使って go. mod を汚さずに replace を書く](https://zenn.dev/ikawaha/articles/20220701-a053ec54b77435)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
