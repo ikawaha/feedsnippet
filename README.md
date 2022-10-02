@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-09-08T00:16:07Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-10-02T00:20:46Z]-->
+* ![](./icon/zenn.png)[Goa 更新情報 v3.9.0](https://zenn.dev/ikawaha/articles/20221001-6747821d02c8e8)
 * ![](./icon/zenn.png)[actions/setup-goでgo.modを参照してGoのバージョン利用する](https://zenn.dev/ikawaha/articles/20220907-ed8ed5603b9e8f)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.5 / Clue v0.11.0](https://zenn.dev/ikawaha/articles/20220906-26034057e14410)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.4 / Clue v0.10.0](https://zenn.dev/ikawaha/articles/20220828-4230c5460efc04)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.14](https://zenn.dev/ikawaha/articles/20220801-ad319824c789e8)
 * ![](./icon/zenn.png)[さよなら WebDriver Client Agouti](https://zenn.dev/ikawaha/articles/20220722-4719183593a3cb)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.7.12](https://zenn.dev/ikawaha/articles/20220717-c8f77d794dd18e)
-* ![](./icon/zenn.png)[clue 更新情報 v0.9.0](https://zenn.dev/ikawaha/articles/20220715-024418951cf58d)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
