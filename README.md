@@ -143,17 +143,17 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-07-18T00:12:19Z]-->
-* ![](./icon/zenn.png)[Goa 更新情報 v3.7.12](https://zenn.dev/ikawaha/articles/20220717-c8f77d794dd18e)
-* ![](./icon/zenn.png)[clue 更新情報 v0.9.0](https://zenn.dev/ikawaha/articles/20220715-024418951cf58d)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.7.10](https://zenn.dev/ikawaha/articles/20220702-2fb029d5b376fd)
-* ![](./icon/zenn.png)[Go の workspace を使って go. mod を汚さずに replace を書く](https://zenn.dev/ikawaha/articles/20220701-a053ec54b77435)
-* ![](./icon/zenn.png)[単純な Slack Bot を単純に書くための Go のライブラリをメンテした](https://zenn.dev/ikawaha/articles/20220628-0bd46584a3063d)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.7.6](https://zenn.dev/ikawaha/articles/20220604-5fec68135de16d)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.7.4, v3.7.5](https://zenn.dev/ikawaha/articles/20220515-8f78f05cd20ff7)
-* ![](./icon/zenn.png)[clue / log パッケージ](https://zenn.dev/ikawaha/articles/20220503-6677a85c121a27)
-* ![](./icon/zenn.png)[Goa v3.7.3 / Clue 0.6.0](https://zenn.dev/ikawaha/articles/20220503-1528a09718aef9)
-* ![](./icon/zenn.png)[PostgreSQL の演算子「?」が GORM のプレースホルダとバッティングするんだが](https://zenn.dev/ikawaha/articles/20220113-bb7328a9f89925)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-10-13T00:18:39Z]-->
+* ![](./icon/zenn.png)[Goa 更新情報 v3.10.0](https://zenn.dev/ikawaha/articles/20221012-00864a787f24f6)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.9.1](https://zenn.dev/ikawaha/articles/20221004-6d236151a0438f)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.9.0](https://zenn.dev/ikawaha/articles/20221001-6747821d02c8e8)
+* ![](./icon/zenn.png)[actions/setup-goでgo.modを参照してGoのバージョン利用する](https://zenn.dev/ikawaha/articles/20220907-ed8ed5603b9e8f)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.5 / Clue v0.11.0](https://zenn.dev/ikawaha/articles/20220906-26034057e14410)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.4 / Clue v0.10.0](https://zenn.dev/ikawaha/articles/20220828-4230c5460efc04)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.3](https://zenn.dev/ikawaha/articles/20220821-b5356517f44727)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.8.2](https://zenn.dev/ikawaha/articles/20220811-66619772b2b8a4)
+* ![](./icon/zenn.png)[ドドスコするオートマトン考](https://zenn.dev/ikawaha/articles/20220806-55c9db03732a09)
+* ![](./icon/zenn.png)[Goa 更新情報 v3.7.14](https://zenn.dev/ikawaha/articles/20220801-ad319824c789e8)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
