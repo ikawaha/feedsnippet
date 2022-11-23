@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-11-02T00:20:44Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-11-23T00:13:16Z]-->
+* ![](./icon/zenn.png)[旧字体を新字体に変換する](https://zenn.dev/ikawaha/articles/20221122-87b961130d6e95)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.10.2](https://zenn.dev/ikawaha/articles/20221101-9c22d74ea30df8)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.10.0](https://zenn.dev/ikawaha/articles/20221012-00864a787f24f6)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.9.1](https://zenn.dev/ikawaha/articles/20221004-6d236151a0438f)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.4 / Clue v0.10.0](https://zenn.dev/ikawaha/articles/20220828-4230c5460efc04)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.3](https://zenn.dev/ikawaha/articles/20220821-b5356517f44727)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.2](https://zenn.dev/ikawaha/articles/20220811-66619772b2b8a4)
-* ![](./icon/zenn.png)[ドドスコするオートマトン考](https://zenn.dev/ikawaha/articles/20220806-55c9db03732a09)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
