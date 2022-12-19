@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-12-16T00:11:43Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-12-19T00:11:40Z]-->
+* ![](./icon/zenn.png)[JIS X 0208 の第一水準・第二水準を判定する関数を追加してみた](https://zenn.dev/ikawaha/articles/20221218-fb40fe8df1b56e)
 * ![](./icon/zenn.png)[Goa のカスタムエラーを理解する](https://zenn.dev/ikawaha/articles/20221215-25863f24d2ba2f)
 * ![](./icon/zenn.png)[続・さよなら WebDriver Client Agouti](https://zenn.dev/ikawaha/articles/20221206-eac7dea110c285)
 * ![](./icon/zenn.png)[旧字体を新字体に変換する](https://zenn.dev/ikawaha/articles/20221122-87b961130d6e95)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa 更新情報 v3.9.0](https://zenn.dev/ikawaha/articles/20221001-6747821d02c8e8)
 * ![](./icon/zenn.png)[actions/setup-goでgo.modを参照してGoのバージョン利用する](https://zenn.dev/ikawaha/articles/20220907-ed8ed5603b9e8f)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.8.5 / Clue v0.11.0](https://zenn.dev/ikawaha/articles/20220906-26034057e14410)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.8.4 / Clue v0.10.0](https://zenn.dev/ikawaha/articles/20220828-4230c5460efc04)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
