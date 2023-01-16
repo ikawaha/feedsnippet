@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-12-28T00:11:33Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-01-16T00:12:27Z]-->
+* ![](./icon/zenn.png)[clue 更新情報 v0.15.0 & v0.16.0](https://zenn.dev/ikawaha/articles/20230115-0e9c1d6255a177)
 * ![](./icon/zenn.png)[Goa の OneOf を利用してみる](https://zenn.dev/ikawaha/articles/20221227-ac02aada8450f8)
 * ![](./icon/zenn.png)[JIS X 0208 の第一水準・第二水準を判定する関数を追加してみた](https://zenn.dev/ikawaha/articles/20221218-fb40fe8df1b56e)
 * ![](./icon/zenn.png)[Goa のカスタムエラーを理解する](https://zenn.dev/ikawaha/articles/20221215-25863f24d2ba2f)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa 更新情報 v3.10.0](https://zenn.dev/ikawaha/articles/20221012-00864a787f24f6)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.9.1](https://zenn.dev/ikawaha/articles/20221004-6d236151a0438f)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.9.0](https://zenn.dev/ikawaha/articles/20221001-6747821d02c8e8)
-* ![](./icon/zenn.png)[actions/setup-goでgo.modを参照してGoのバージョン利用する](https://zenn.dev/ikawaha/articles/20220907-ed8ed5603b9e8f)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
