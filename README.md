@@ -113,31 +113,31 @@ name: Update feed snippet
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'  
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-    - name: Set up Go
-      uses: actions/setup-go@v2
-      with:
-        go-version: 1.16
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version-file: 'stable'
 
-    - name: Install feedsnippet
-      run: go install github.com/ikawaha/feedsnippet@latest
+      - name: Install feedsnippet
+        run: go install github.com/ikawaha/feedsnippet@latest
 
-    - name: Update README.md
-      run: feedsnippet -config feedsnippet.yml -diff -file README.md
+      - name: Update README.md
+        run: feedsnippet -config feedsnippet.yml -diff -file README.md
 
-    - name: git commit
-      run: |
-        git config --local user.email "ikawaha@users.noreply.github.com"
-        git config --local user.name "ikawaha"
-        git add README.md
-        git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
+      - name: git commit
+        run: |
+          git config --local user.email "ikawaha@users.noreply.github.com"
+          git config --local user.name "ikawaha"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
 ```
 
 Outputs:
