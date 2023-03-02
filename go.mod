@@ -3,7 +3,7 @@ module github.com/ikawaha/feedsnippet
 go 1.19
 
 require (
-	github.com/goccy/go-yaml v1.9.8
+	github.com/goccy/go-yaml v1.10.0
 	github.com/mmcdole/gofeed v1.2.0
 )
 
