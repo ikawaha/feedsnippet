@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-03-06T00:13:08Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-03-22T00:10:29Z]-->
+* ![](./icon/zenn.png)[Goa v3.11.3 更新情報](https://zenn.dev/ikawaha/articles/20230321-f871d28ec0a215)
 * ![](./icon/zenn.png)[Goa v3.11.1 更新情報](https://zenn.dev/ikawaha/articles/20230305-ce2f194a9e49e0)
 * ![](./icon/zenn.png)[Goa v3.11.0 更新情報](https://zenn.dev/ikawaha/articles/20230128-78b5e812d1a6cc)
 * ![](./icon/zenn.png)[clue 更新情報 v0.15.0 & v0.16.0](https://zenn.dev/ikawaha/articles/20230115-0e9c1d6255a177)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[続・さよなら WebDriver Client Agouti](https://zenn.dev/ikawaha/articles/20221206-eac7dea110c285)
 * ![](./icon/zenn.png)[旧字体を新字体に変換する](https://zenn.dev/ikawaha/articles/20221122-87b961130d6e95)
 * ![](./icon/zenn.png)[Goa 更新情報 v3.10.2](https://zenn.dev/ikawaha/articles/20221101-9c22d74ea30df8)
-* ![](./icon/zenn.png)[Goa 更新情報 v3.10.0](https://zenn.dev/ikawaha/articles/20221012-00864a787f24f6)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
