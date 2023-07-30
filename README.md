@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-07-24T00:12:56Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-07-30T00:13:26Z]-->
+* ![](./icon/zenn.png)[Goa v3.12.3 更新情報](https://zenn.dev/ikawaha/articles/20230729-ee6cc1f4c2a34f)
 * ![](./icon/zenn.png)[Goa v3.12.1 更新情報](https://zenn.dev/ikawaha/articles/20230723-1a4228a6f6eeae)
 * ![](./icon/zenn.png)[Go の httptest のサンプル](https://zenn.dev/ikawaha/articles/hatena-20150413-101341)
 * ![](./icon/zenn.png)[Go でテスト用のサーバを立ててクライアントのテストする](https://zenn.dev/ikawaha/articles/hatena-20150408-190407)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[clue 更新情報 v0.15.0 & v0.16.0](https://zenn.dev/ikawaha/articles/20230115-0e9c1d6255a177)
 * ![](./icon/zenn.png)[Goa の OneOf を利用してみる](https://zenn.dev/ikawaha/articles/20221227-ac02aada8450f8)
 * ![](./icon/zenn.png)[JIS X 0208 の第一水準・第二水準を判定する関数を追加してみた](https://zenn.dev/ikawaha/articles/20221218-fb40fe8df1b56e)
-* ![](./icon/zenn.png)[Goa のカスタムエラーを理解する](https://zenn.dev/ikawaha/articles/20221215-25863f24d2ba2f)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
