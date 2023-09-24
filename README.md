@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-08-21T00:11:31Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-09-24T00:11:59Z]-->
+* ![](./icon/zenn.png)[Goa v3.13.0, v3.13.1 更新情報](https://zenn.dev/ikawaha/articles/20230912-7ac657e561814f)
 * ![](./icon/zenn.png)[Go 言語の defer の挙動をまとめておく](https://zenn.dev/ikawaha/articles/20230820-fcae76bc205341)
 * ![](./icon/zenn.png)[Goa v3.12.4 更新情報](https://zenn.dev/ikawaha/articles/20230820-a86c0c7de4e461)
 * ![](./icon/zenn.png)[Goa v3.12.3 更新情報](https://zenn.dev/ikawaha/articles/20230729-ee6cc1f4c2a34f)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.11.3 更新情報](https://zenn.dev/ikawaha/articles/20230321-f871d28ec0a215)
 * ![](./icon/zenn.png)[Goa v3.11.1 更新情報](https://zenn.dev/ikawaha/articles/20230305-ce2f194a9e49e0)
 * ![](./icon/zenn.png)[Goa v3.11.0 更新情報](https://zenn.dev/ikawaha/articles/20230128-78b5e812d1a6cc)
-* ![](./icon/zenn.png)[clue 更新情報 v0.15.0 & v0.16.0](https://zenn.dev/ikawaha/articles/20230115-0e9c1d6255a177)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
