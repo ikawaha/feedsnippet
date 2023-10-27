@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-10-22T00:12:18Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-10-27T00:11:18Z]-->
+* ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
 * ![](./icon/zenn.png)[Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231021-d6b4a05ae1948b)
 * ![](./icon/zenn.png)[Goa v3.13.2 更新情報](https://zenn.dev/ikawaha/articles/20231004-ebb3f3fc0842ea)
 * ![](./icon/zenn.png)[Goa v3.13.0, v3.13.1 更新情報](https://zenn.dev/ikawaha/articles/20230912-7ac657e561814f)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.12.1 更新情報](https://zenn.dev/ikawaha/articles/20230723-1a4228a6f6eeae)
 * ![](./icon/zenn.png)[Go の httptest のサンプル](https://zenn.dev/ikawaha/articles/hatena-20150413-101341)
 * ![](./icon/zenn.png)[Go でテスト用のサーバを立ててクライアントのテストする](https://zenn.dev/ikawaha/articles/hatena-20150408-190407)
-* ![](./icon/zenn.png)[Goa v3.11.3 更新情報](https://zenn.dev/ikawaha/articles/20230321-f871d28ec0a215)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
