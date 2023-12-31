@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-12-13T00:11:49Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2023-12-31T00:13:14Z]-->
+* ![](./icon/zenn.png)[エラーをオブラートに包んでほしい](https://zenn.dev/ikawaha/articles/20231230-6b26c7fe78ba4f)
 * ![](./icon/zenn.png)[Goa v3.14.1 更新情報](https://zenn.dev/ikawaha/articles/20231212-98d27c307b9f2e)
 * ![](./icon/zenn.png)[Goa v3.14.0 更新情報](https://zenn.dev/ikawaha/articles/20231104-aeb8e68a07f3a1)
 * ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Go 言語の defer の挙動をまとめておく](https://zenn.dev/ikawaha/articles/20230820-fcae76bc205341)
 * ![](./icon/zenn.png)[Goa v3.12.4 更新情報](https://zenn.dev/ikawaha/articles/20230820-a86c0c7de4e461)
 * ![](./icon/zenn.png)[Goa v3.12.3 更新情報](https://zenn.dev/ikawaha/articles/20230729-ee6cc1f4c2a34f)
-* ![](./icon/zenn.png)[Goa v3.12.1 更新情報](https://zenn.dev/ikawaha/articles/20230723-1a4228a6f6eeae)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
