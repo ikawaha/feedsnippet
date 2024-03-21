@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-03-10T00:12:57Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-03-21T00:12:45Z]-->
+* ![](./icon/zenn.png)[Goa v3.15.2 更新情報](https://zenn.dev/ikawaha/articles/20240320-645fa2a0cd0cc1)
 * ![](./icon/zenn.png)[Goa v3.15.0 更新情報](https://zenn.dev/ikawaha/articles/20240309-ee293c9b8b3f3d)
 * ![](./icon/zenn.png)[Goa v3.14.6 更新情報](https://zenn.dev/ikawaha/articles/20240120-9daef154b1b8ce)
 * ![](./icon/zenn.png)[Goa v3.14.5 更新情報](https://zenn.dev/ikawaha/articles/20240113-4d1975d1851484)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.14.0 更新情報](https://zenn.dev/ikawaha/articles/20231104-aeb8e68a07f3a1)
 * ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
 * ![](./icon/zenn.png)[Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231021-d6b4a05ae1948b)
-* ![](./icon/zenn.png)[Goa v3.13.2 更新情報](https://zenn.dev/ikawaha/articles/20231004-ebb3f3fc0842ea)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
