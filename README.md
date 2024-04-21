@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-03-25T00:12:37Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-04-21T00:13:13Z]-->
+* ![](./icon/zenn.png)[Goa v3.16.0, v3.16.1 更新情報](https://zenn.dev/ikawaha/articles/20240420-b13099daf18119)
 * ![](./icon/zenn.png)[全文検索エンジン Bleve で日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20240324-5f5a051ee203c7)
 * ![](./icon/zenn.png)[Goa v3.15.2 更新情報](https://zenn.dev/ikawaha/articles/20240320-645fa2a0cd0cc1)
 * ![](./icon/zenn.png)[Goa v3.15.0 更新情報](https://zenn.dev/ikawaha/articles/20240309-ee293c9b8b3f3d)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[エラーをオブラートに包んでほしい](https://zenn.dev/ikawaha/articles/20231230-6b26c7fe78ba4f)
 * ![](./icon/zenn.png)[Goa v3.14.1 更新情報](https://zenn.dev/ikawaha/articles/20231212-98d27c307b9f2e)
 * ![](./icon/zenn.png)[Goa v3.14.0 更新情報](https://zenn.dev/ikawaha/articles/20231104-aeb8e68a07f3a1)
-* ![](./icon/zenn.png)[続:Goa の example が試しやすくなりました](https://zenn.dev/ikawaha/articles/20231026-26b8fba56c35e9)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
