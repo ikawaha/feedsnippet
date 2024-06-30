@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-06-16T00:14:17Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-06-30T00:14:23Z]-->
+* ![](./icon/zenn.png)[しかのこのこのここしたんたん耐久オートマトン](https://zenn.dev/ikawaha/articles/20240629-d52f7a78075457)
 * ![](./icon/zenn.png)[Goa v3.16.2 更新情報](https://zenn.dev/ikawaha/articles/20240615-dafbcafacfe360)
 * ![](./icon/zenn.png)[slack-go/slack ライブラリを利用したアプリで Slack の files.upload API 廃止に対応する](https://zenn.dev/ikawaha/articles/20240505-842774e0b280d4)
 * ![](./icon/zenn.png)[Goa v3.16.0, v3.16.1 更新情報](https://zenn.dev/ikawaha/articles/20240420-b13099daf18119)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.14.6 更新情報](https://zenn.dev/ikawaha/articles/20240120-9daef154b1b8ce)
 * ![](./icon/zenn.png)[Goa v3.14.5 更新情報](https://zenn.dev/ikawaha/articles/20240113-4d1975d1851484)
 * ![](./icon/zenn.png)[2023年ふりかえり](https://zenn.dev/ikawaha/articles/20231231-e271986a9944c3)
-* ![](./icon/zenn.png)[エラーをオブラートに包んでほしい](https://zenn.dev/ikawaha/articles/20231230-6b26c7fe78ba4f)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
