@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-07-08T00:13:48Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-07-09T00:12:58Z]-->
+* ![](./icon/zenn.png)[Goa v3.17.2 更新情報](https://zenn.dev/ikawaha/articles/20240709-8f7163a184b6a7)
 * ![](./icon/zenn.png)[Goa v3.17.1 更新情報](https://zenn.dev/ikawaha/articles/20240707-4ee9e93fb6325c)
 * ![](./icon/zenn.png)[しかのこのこのここしたんたん耐久オートマトン](https://zenn.dev/ikawaha/articles/20240629-d52f7a78075457)
 * ![](./icon/zenn.png)[Goa v3.16.2 更新情報](https://zenn.dev/ikawaha/articles/20240615-dafbcafacfe360)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.15.2 更新情報](https://zenn.dev/ikawaha/articles/20240320-645fa2a0cd0cc1)
 * ![](./icon/zenn.png)[Goa v3.15.0 更新情報](https://zenn.dev/ikawaha/articles/20240309-ee293c9b8b3f3d)
 * ![](./icon/zenn.png)[Goa v3.14.6 更新情報](https://zenn.dev/ikawaha/articles/20240120-9daef154b1b8ce)
-* ![](./icon/zenn.png)[Goa v3.14.5 更新情報](https://zenn.dev/ikawaha/articles/20240113-4d1975d1851484)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
