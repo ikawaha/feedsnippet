@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-11-02T00:03:26Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-12-27T13:49:44Z]-->
+* ![](./icon/zenn.png)[2024年ふりかえり](https://zenn.dev/ikawaha/articles/20241227-14f5ae40d359a4)
 * ![](./icon/zenn.png)[Magic Keybord の Touch ID がログイン時に認識されない](https://zenn.dev/ikawaha/articles/20241101-a63419c7824103)
 * ![](./icon/zenn.png)[Goa v3.19.0 更新情報](https://zenn.dev/ikawaha/articles/20240914-0f62310953c2ba)
 * ![](./icon/zenn.png)[(自分のmac環境で)よくわからないが安定する設定](https://zenn.dev/ikawaha/articles/20240907-319ef3a13d9dae)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[Goa v3.16.2 更新情報](https://zenn.dev/ikawaha/articles/20240615-dafbcafacfe360)
 * ![](./icon/zenn.png)[slack-go/slack ライブラリを利用したアプリで Slack の files.upload API 廃止に対応する](https://zenn.dev/ikawaha/articles/20240505-842774e0b280d4)
 * ![](./icon/zenn.png)[Goa v3.16.0, v3.16.1 更新情報](https://zenn.dev/ikawaha/articles/20240420-b13099daf18119)
-* ![](./icon/zenn.png)[全文検索エンジン Bleve で日本語形態素解析をおこなう](https://zenn.dev/ikawaha/articles/20240324-5f5a051ee203c7)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
