@@ -143,7 +143,8 @@ jobs:
 Outputs:
 
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2024-12-27T13:49:44Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2025-03-20T08:26:36Z]-->
+* ![](./icon/zenn.png)[GitHub Action を commit hash で管理する](https://zenn.dev/ikawaha/articles/20250320-e6e10030d2c058)
 * ![](./icon/zenn.png)[2024年ふりかえり](https://zenn.dev/ikawaha/articles/20241227-14f5ae40d359a4)
 * ![](./icon/zenn.png)[Magic Keybord の Touch ID がログイン時に認識されない](https://zenn.dev/ikawaha/articles/20241101-a63419c7824103)
 * ![](./icon/zenn.png)[Goa v3.19.0 更新情報](https://zenn.dev/ikawaha/articles/20240914-0f62310953c2ba)
@@ -153,7 +154,6 @@ Outputs:
 * ![](./icon/zenn.png)[しかのこのこのここしたんたん耐久オートマトン](https://zenn.dev/ikawaha/articles/20240629-d52f7a78075457)
 * ![](./icon/zenn.png)[Goa v3.16.2 更新情報](https://zenn.dev/ikawaha/articles/20240615-dafbcafacfe360)
 * ![](./icon/zenn.png)[slack-go/slack ライブラリを利用したアプリで Slack の files.upload API 廃止に対応する](https://zenn.dev/ikawaha/articles/20240505-842774e0b280d4)
-* ![](./icon/zenn.png)[Goa v3.16.0, v3.16.1 更新情報](https://zenn.dev/ikawaha/articles/20240420-b13099daf18119)
 <!--[END github.com/ikawaha/feedsnippet]-->
 ---
 MIT
